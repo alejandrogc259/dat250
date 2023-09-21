@@ -11,6 +11,7 @@ Validation:
 ![imagen](https://github.com/alejandrogc259/dat250/assets/76476629/8254306f-73c3-4869-9f81-a94b7fb330ea)
 
 Experiment 1:
+  
   Insert one
   
    ![imagen](https://github.com/alejandrogc259/dat250/assets/76476629/eddf59e5-8a1f-4896-a927-302ec62f7154)
