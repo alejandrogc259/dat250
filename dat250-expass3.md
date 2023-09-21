@@ -1,6 +1,6 @@
 # Report of the third assignment
 ## Technical problems
-1. I have an error trying to install MongoDB because I have Ubuntu 22.04 and the tutorial last version is 20.04. I searched on the Internet and found that I had to install a dependency called libssl1.1. I ran these commands and it worked:
+1. I had an error trying to install MongoDB because I have Ubuntu 22.04 and the tutorial last version is 20.04. I searched on the Internet and found that I had to install a dependency called libssl1.1. I ran these commands and it worked:
    - echo "deb http://security.ubuntu.com/ubuntu focal-security main" | sudo tee /etc/apt/sources.list.d/focal-security.list
    - sudo apt-get update
    - sudo apt-get install libssl1.1
