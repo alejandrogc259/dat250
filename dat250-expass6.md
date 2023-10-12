@@ -1,4 +1,4 @@
-# Report of the third assignment
+# Report of the sixth assignment
 ## Technical problems
 I have problems with the CORS policy that I had to resolve using a proxy to make the requests.
 
